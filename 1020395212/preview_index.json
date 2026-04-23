@@ -1,0 +1,31 @@
+{
+  "qq_number": "3305369937",
+  "group_number": "1020395212",
+  "updated_at": "2026-04-23T15:52:38.615137",
+  "skins": [
+    {
+      "name": "尹伊の刀剑乱舞",
+      "file": "尹伊の刀剑乱舞-音1.bdi",
+      "thumb": "尹伊の刀剑乱舞-音1.bdi_py_26_light_thumb.png",
+      "full": "尹伊の刀剑乱舞-音1.bdi_py_26_light.png"
+    },
+    {
+      "name": "尹伊の刀剑乱舞",
+      "file": "尹伊の刀剑乱舞-音2.bdi",
+      "thumb": "尹伊の刀剑乱舞-音2.bdi_py_26_light_thumb.png",
+      "full": "尹伊の刀剑乱舞-音2.bdi_py_26_light.png"
+    },
+    {
+      "name": "尹伊の刀剑乱舞",
+      "file": "尹伊の刀剑乱舞-音2.bds",
+      "thumb": "尹伊の刀剑乱舞-音2.bds_py_26_light_thumb.png",
+      "full": "尹伊の刀剑乱舞-音2.bds_py_26_light.png"
+    },
+    {
+      "name": "尹伊の刀剑乱舞",
+      "file": "尹伊の刀剑乱舞-音1.bds",
+      "thumb": "尹伊の刀剑乱舞-音1.bds_py_26_light_thumb.png",
+      "full": "尹伊の刀剑乱舞-音1.bds_py_26_light.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "qq_number": "3305369937",
+  "group_number": "1082544195",
+  "updated_at": "2026-04-23T15:52:37.605611",
+  "skins": [
+    {
+      "name": "尹伊のエックス",
+      "file": "尹伊のエックス.bdi",
+      "thumb": "尹伊のエックス.bdi_py_26_light_thumb.png",
+      "full": "尹伊のエックス.bdi_py_26_light.png"
+    },
+    {
+      "name": "尹伊のエックス",
+      "file": "尹伊のエックス彩.bdi",
+      "thumb": "尹伊のエックス彩.bdi_py_26_light_thumb.png",
+      "full": "尹伊のエックス彩.bdi_py_26_light.png"
+    },
+    {
+      "name": "尹伊のエックス",
+      "file": "尹伊のエックス彩.bds",
+      "thumb": "尹伊のエックス彩.bds_py_26_light_thumb.png",
+      "full": "尹伊のエックス彩.bds_py_26_light.png"
+    }
+  ]
+}
