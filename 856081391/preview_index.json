@@ -1,7 +1,7 @@
 {
   "qq_number": "3305369937",
   "group_number": "856081391",
-  "updated_at": "2026-06-11T05:50:54+00:00",
+  "updated_at": "2026-06-11T06:47:29+00:00",
   "skins": [
     {
       "name": "尹伊の枭声未落",
@@ -14,6 +14,12 @@
       "file": "尹伊の枭声未落-音1.bds",
       "thumb": "尹伊の枭声未落-音1.bds_py_26_light_thumb.png",
       "full": "尹伊の枭声未落-音1.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "尹伊の枭声未落-音2彩",
+      "file": "尹伊の枭声未落-音2彩.bdi",
+      "thumb": "尹伊の枭声未落-音2彩.bdi_py_26_light_thumb.png",
+      "full": "尹伊の枭声未落-音2彩.bdi_py_26_light_thumb.png"
     }
   ]
 }
