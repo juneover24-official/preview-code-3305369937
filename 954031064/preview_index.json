@@ -1,7 +1,7 @@
 {
   "qq_number": "3305369937",
   "group_number": "954031064",
-  "updated_at": "2026-06-16T12:20:06+00:00",
+  "updated_at": "2026-06-16T12:21:27+00:00",
   "skins": [
     {
       "name": "尹伊の甜度失衡-音2彩",
@@ -20,6 +20,12 @@
       "file": "尹伊の甜度失衡-音1彩.bdi",
       "thumb": "尹伊の甜度失衡-音1彩.bdi_py_26_light_thumb.png",
       "full": "尹伊の甜度失衡-音1彩.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "尹伊の甜度失衡",
+      "file": "尹伊の甜度失衡-音1.bds",
+      "thumb": "尹伊の甜度失衡-音1.bds_py_26_light_thumb.png",
+      "full": "尹伊の甜度失衡-音1.bds_py_26_light_thumb.png"
     }
   ]
 }
